@@ -11,3 +11,10 @@ This chatbot answers college-related questions automatically using Python and Ma
 - College enquiry chatbot
 - CSV dataset support
 - Automatic question matching
+- ## Screenshots
+
+![Project Screenshot](images/Screenshot%20(228).png)
+
+## Demo Video
+
+Demo video is available in the images folder.
